@@ -1,8 +1,11 @@
-# Entorno virtual
+# Entornos virtuales
 entornoTarea1/
+entornoTarea2/
+
 
 # Todos los logs
 *.log
 
-# Excepción: el log que sí quieres entregar
+# Excepciones: los logs oficiales que se entregan
 !bert_profiler_results_10149881.log
+!bert_ddp_results_11128103.log
